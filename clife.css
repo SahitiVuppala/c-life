@@ -1,0 +1,31 @@
+/* .header{
+  background-image: url("logo.jpg");
+  text-align: : center;
+  padding-top: : 50px;
+  padding-bottom: 50px;
+  background-attachment: fixed;
+} */
+#img{
+  border-radius:50%
+}
+
+body {background-color: #C9E1EC }
+h2 {
+  font-family: "Courier New";
+   }
+h1 {
+  font-family: "Courier New";
+}
+h1{
+  font-size:120px;
+}
+h4 {
+  font-color:#ff0000;
+}
+
+.rotateimg180 {
+  -webkit-transform:rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  transform: rotate(90deg);
